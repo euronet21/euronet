@@ -1,0 +1,21 @@
+
+.card-group .card {
+	border-radius: 0 !important;
+	background: #799085;
+    margin-right: 10px;
+}
+.card-group .card .time{
+	float: left;
+}
+.card-group .card .cost{
+	float: right;
+}
+#services .card{
+	border-radius: 0 !important;
+	color: #fff !important;
+}
+#how-it-works .img img {
+	width: 100%;
+    max-width: 300px;
+	max-height: 184px;
+}
